@@ -7,11 +7,10 @@ namespace OOPinCsharp
         public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
-        public List<Order> orders;
+        public readonly List<Order> orders = new List<Order>();
 
         public Customer()
         {
-            orders = new List<Order>();
         }
 
         public Customer(int id, string name, string email) //ctor for shortcut
@@ -25,10 +24,13 @@ namespace OOPinCsharp
         public Customer(string name, string email) //ctor for shortcut
         : this()
         {
-
             this.Name = name;
             this.Email = email;
         }
 
+        public void Promote()
+        {
+
+        }
     }
 }

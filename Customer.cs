@@ -4,9 +4,9 @@ namespace OOPinCsharp
 {
     public class Customer
     {
-        private int Id;
-        private string Name;
-        private string Email;
+        private int Id { get; set; }
+        private string Name { get; set; }
+        private string Email { get; set; }
         public readonly List<Order> orders = new List<Order>();
 
         public Customer(int id, string name, string email) //ctor for shortcut
@@ -24,9 +24,6 @@ namespace OOPinCsharp
             this.Email = email;
         }
 
-        public string GetName()
-        {
-            return Name;
-        }
     }
 }
+

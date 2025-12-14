@@ -4,17 +4,13 @@ namespace OOPinCsharp
 {
     public class Customer
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
+        private int Id;
+        private string Name;
+        private string Email;
         public readonly List<Order> orders = new List<Order>();
 
-        public Customer()
-        {
-        }
-
         public Customer(int id, string name, string email) //ctor for shortcut
-        : this()
+
         {
             this.Id = id;
             this.Name = name;
@@ -22,15 +18,15 @@ namespace OOPinCsharp
         }
 
         public Customer(string name, string email) //ctor for shortcut
-        : this()
+
         {
             this.Name = name;
             this.Email = email;
         }
 
-        public void Promote()
+        public string GetName()
         {
-
+            return Name;
         }
     }
 }

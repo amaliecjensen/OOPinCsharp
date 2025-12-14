@@ -1,0 +1,14 @@
+C:\Users\amali\Desktop\OOPinCsharp\bin\Debug\net9.0\OOPinCsharp.exe
+C:\Users\amali\Desktop\OOPinCsharp\bin\Debug\net9.0\OOPinCsharp.deps.json
+C:\Users\amali\Desktop\OOPinCsharp\bin\Debug\net9.0\OOPinCsharp.runtimeconfig.json
+C:\Users\amali\Desktop\OOPinCsharp\bin\Debug\net9.0\OOPinCsharp.dll
+C:\Users\amali\Desktop\OOPinCsharp\bin\Debug\net9.0\OOPinCsharp.pdb
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.AssemblyInfoInputs.cache
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.AssemblyInfo.cs
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.csproj.CoreCompileInputs.cache
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.dll
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\refint\OOPinCsharp.dll
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.pdb
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.genruntimeconfig.cache
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\ref\OOPinCsharp.dll

@@ -5,7 +5,7 @@ namespace OOPinCsharp
     public class Customer
     {
         private int Id { get; set; }
-        private string Name { get; set; }
+        private string Name { get; set; } //prop for shortcut 
         private string Email { get; set; }
         public readonly List<Order> orders = new List<Order>();
 

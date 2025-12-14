@@ -12,3 +12,4 @@ C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\refint\OOPinCsharp.dll
 C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.pdb
 C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.genruntimeconfig.cache
 C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\ref\OOPinCsharp.dll
+C:\Users\amali\Desktop\OOPinCsharp\obj\Debug\net9.0\OOPinCsharp.sourcelink.json

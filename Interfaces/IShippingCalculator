@@ -1,0 +1,4 @@
+public interface ShippingCalculator {
+    float Calculateshipping(Order order);
+
+    }

@@ -1,8 +1,8 @@
 public class MailService
 {
-    public void OnVideoEncoded(object source, EventArgs e)
+    public void OnVideoEncoded(object source, VideoEventArgs e)
     {
-        System.Console.WriteLine("mailservice sending an email");
+        System.Console.WriteLine("mailservice sending an email" + e.Video);
         
     }
 }

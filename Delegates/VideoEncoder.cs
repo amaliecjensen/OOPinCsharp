@@ -7,18 +7,20 @@ public class VideoEncoder
     //define an event based on the delegate
     public event VideoEncodedEventHandler VideoEncoded;
 
+    //public event EventHandler<VideoEventArgs> VideoEncoded;
+
     public void Encode(Video video)
     {
         Console.WriteLine("Encoding video...");
         Thread.Sleep(3000);
 
-        OnVideoEncoded();
+        OnVideoEncoded(video);
     }
 
     //raise the event
-    protected virtual void OnVideoEncoded()
+    protected virtual void OnVideoEncoded(Video video)
     {
         if (VideoEncoded != null)
-            VideoEncoded(this, EventArgs.Empty);
+            VideoEncoded(this, new VideoEventArgs() {Video = video});
     }
 }

@@ -3,7 +3,8 @@
 
 
 
-    public void OnVideoEncoded(object source, EventArgs args) {
-console.Writ
+    public void OnVideoEncoded(object source, VideoEventArgs args)
+    {
+        System.Console.WriteLine("messageservice sending");
     }
 }

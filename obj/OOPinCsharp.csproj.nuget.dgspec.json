@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj": {}
+    "C:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj": {
+    "C:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj",
         "projectName": "OOPinCsharp",
-        "projectPath": "c:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj",
+        "projectPath": "C:\\Users\\amali\\Desktop\\OOPinCsharp\\OOPinCsharp.csproj",
         "packagesPath": "C:\\Users\\amali\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\amali\\Desktop\\OOPinCsharp\\obj\\",
+        "outputPath": "C:\\Users\\amali\\Desktop\\OOPinCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amali\\AppData\\Roaming\\NuGet\\NuGet.Config"

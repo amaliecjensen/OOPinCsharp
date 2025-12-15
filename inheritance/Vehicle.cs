@@ -14,7 +14,8 @@ class Vehicle
 
 class Car : Vehicle
 {
-    public Car()
+    public Car(string regNumber)
+    : base(regNumber)
     {
         Console.WriteLine("car is being initializedx");
     }
